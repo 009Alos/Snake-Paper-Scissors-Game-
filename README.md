@@ -1,2 +1,2 @@
-# Snake-Paper-Scissors-Game-
-Play Snake Paper Scissors Game
+# Snake-Water-Gun-Game-
+Play Snnake Water Gun Game
