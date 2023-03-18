@@ -1,5 +1,28 @@
 # Snake-Water-Gun-Game-
-Play Snnake Water Gun Game
+Play Snake Water Gun Game
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import random
 
 user_name=input("Enter the your name please")
@@ -11,10 +34,6 @@ print('-'*60)
 print('*'*10,"Type '999' for quit the game ",'*'*10)
 print('-'*60)
 while True:
-    
-    
-    
-    
     try:
         
         com=random.randint(1,3)
